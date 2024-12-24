@@ -1,0 +1,12 @@
+motorcycle: bike, motorbike, motorcycle, moto, scooter
+
+car: sedan, hatchback, suv, mpv, crossover, station wagon, wagon
+
+van: van, minivan, minibus
+
+pickup: pickup, pickup truck
+
+bus: bus
+
+
+truck: truck, trailer, lorry, tractor, tanker, dump truck
