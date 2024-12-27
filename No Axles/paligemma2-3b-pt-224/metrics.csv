@@ -1,0 +1,31 @@
+Model,Metric,Value
+google/paligemma2-3b-pt-224,Total Images,927
+google/paligemma2-3b-pt-224,Correct Predictions,838
+google/paligemma2-3b-pt-224,Wrong Predictions,89
+google/paligemma2-3b-pt-224,Accuracy (%),90.39913700107874
+google/paligemma2-3b-pt-224,Error Rate (%),9.600862998921258
+google/paligemma2-3b-pt-224,Per-Class Accuracy: Class 1 - Motorcycles,99.0
+google/paligemma2-3b-pt-224,Per-Class Error Rate: Class 1 - Motorcycles,1.0
+google/paligemma2-3b-pt-224,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",92.92929292929293
+google/paligemma2-3b-pt-224,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",7.070707070707073
+google/paligemma2-3b-pt-224,Per-Class Accuracy: pickup,59.0
+google/paligemma2-3b-pt-224,Per-Class Error Rate: pickup,41.0
+google/paligemma2-3b-pt-224,Per-Class Accuracy: van,94.0
+google/paligemma2-3b-pt-224,Per-Class Error Rate: van,6.0
+google/paligemma2-3b-pt-224,Per-Class Accuracy: bus 2,97.61904761904762
+google/paligemma2-3b-pt-224,Per-Class Error Rate: bus 2,2.3809523809523796
+google/paligemma2-3b-pt-224,Per-Class Accuracy: truck 2,78.21782178217822
+google/paligemma2-3b-pt-224,Per-Class Error Rate: truck 2,21.78217821782178
+google/paligemma2-3b-pt-224,Per-Class Accuracy: bus 3,100.0
+google/paligemma2-3b-pt-224,Per-Class Error Rate: bus 3,0.0
+google/paligemma2-3b-pt-224,Per-Class Accuracy: truck 3,93.0
+google/paligemma2-3b-pt-224,Per-Class Error Rate: truck 3,7.0
+google/paligemma2-3b-pt-224,Per-Class Accuracy: truck 4,96.55172413793103
+google/paligemma2-3b-pt-224,Per-Class Error Rate: truck 4,3.448275862068968
+google/paligemma2-3b-pt-224,Per-Class Accuracy: truck 5,99.0
+google/paligemma2-3b-pt-224,Per-Class Error Rate: truck 5,1.0
+google/paligemma2-3b-pt-224,Processor,x86_64
+google/paligemma2-3b-pt-224,CPU Count,128
+google/paligemma2-3b-pt-224,Memory (GB),503.46
+google/paligemma2-3b-pt-224,Elapsed Time (seconds),212.0664246082306
+google/paligemma2-3b-pt-224,CO2 Emissions (kg),0.010791

@@ -1,0 +1,31 @@
+Model,Metric,Value
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Total Images,927
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Correct Predictions,646
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Wrong Predictions,281
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Accuracy (%),69.68716289104638
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Error Rate (%),30.312837108953616
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: Class 1 - Motorcycles,92.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: Class 1 - Motorcycles,8.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",97.97979797979798
+Qwen/Qwen2-VL-7B-Instruct-AWQ,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",2.0202020202020208
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: pickup,82.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: pickup,18.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: van,100.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: van,0.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: bus 2,69.04761904761905
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: bus 2,30.95238095238095
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: truck 2,78.21782178217822
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: truck 2,21.78217821782178
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: bus 3,27.55102040816326
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: bus 3,72.44897959183675
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: truck 3,33.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: truck 3,67.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: truck 4,32.18390804597701
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: truck 4,67.816091954023
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: truck 5,79.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: truck 5,21.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Processor,x86_64
+Qwen/Qwen2-VL-7B-Instruct-AWQ,CPU Count,128
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Memory (GB),503.47
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Elapsed Time (seconds),898.7975969314575
+Qwen/Qwen2-VL-7B-Instruct-AWQ,CO2 Emissions (kg),0.06673

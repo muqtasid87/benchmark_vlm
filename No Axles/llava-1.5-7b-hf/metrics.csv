@@ -1,0 +1,31 @@
+Model,Metric,Value
+llava-hf/llava-1.5-7b-hf,Total Images,927
+llava-hf/llava-1.5-7b-hf,Correct Predictions,892
+llava-hf/llava-1.5-7b-hf,Wrong Predictions,35
+llava-hf/llava-1.5-7b-hf,Accuracy (%),96.22437971952536
+llava-hf/llava-1.5-7b-hf,Error Rate (%),3.775620280474641
+llava-hf/llava-1.5-7b-hf,Per-Class Accuracy: Class 1 - Motorcycles,97.0
+llava-hf/llava-1.5-7b-hf,Per-Class Error Rate: Class 1 - Motorcycles,3.0
+llava-hf/llava-1.5-7b-hf,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",96.96969696969697
+llava-hf/llava-1.5-7b-hf,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",3.030303030303031
+llava-hf/llava-1.5-7b-hf,Per-Class Accuracy: pickup,88.0
+llava-hf/llava-1.5-7b-hf,Per-Class Error Rate: pickup,12.0
+llava-hf/llava-1.5-7b-hf,Per-Class Accuracy: van,88.0
+llava-hf/llava-1.5-7b-hf,Per-Class Error Rate: van,12.0
+llava-hf/llava-1.5-7b-hf,Per-Class Accuracy: bus 2,95.23809523809523
+llava-hf/llava-1.5-7b-hf,Per-Class Error Rate: bus 2,4.761904761904773
+llava-hf/llava-1.5-7b-hf,Per-Class Accuracy: truck 2,97.02970297029702
+llava-hf/llava-1.5-7b-hf,Per-Class Error Rate: truck 2,2.9702970297029765
+llava-hf/llava-1.5-7b-hf,Per-Class Accuracy: bus 3,100.0
+llava-hf/llava-1.5-7b-hf,Per-Class Error Rate: bus 3,0.0
+llava-hf/llava-1.5-7b-hf,Per-Class Accuracy: truck 3,100.0
+llava-hf/llava-1.5-7b-hf,Per-Class Error Rate: truck 3,0.0
+llava-hf/llava-1.5-7b-hf,Per-Class Accuracy: truck 4,100.0
+llava-hf/llava-1.5-7b-hf,Per-Class Error Rate: truck 4,0.0
+llava-hf/llava-1.5-7b-hf,Per-Class Accuracy: truck 5,100.0
+llava-hf/llava-1.5-7b-hf,Per-Class Error Rate: truck 5,0.0
+llava-hf/llava-1.5-7b-hf,Processor,x86_64
+llava-hf/llava-1.5-7b-hf,CPU Count,128
+llava-hf/llava-1.5-7b-hf,Memory (GB),503.47
+llava-hf/llava-1.5-7b-hf,Elapsed Time (seconds),196.03318190574646
+llava-hf/llava-1.5-7b-hf,CO2 Emissions (kg),0.01336

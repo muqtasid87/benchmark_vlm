@@ -1,0 +1,928 @@
+image,folder_label,prediction,axles,is_correct
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179139_jpg.rf.fef607c55ecee91556ea016695393d4f.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179161_jpg.rf.0faa46fb2e9068194b12fb2bcfe0a1e9.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179171_jpg.rf.d5b7a663af31230bc2d4107e58c36564.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179190_jpg.rf.383b0a526f5f6c271dc890374c255c74.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179196_jpg.rf.988aa9a001ff8b7a6a6e85a7852d4fd1.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179212_jpg.rf.bf9757ad2b484c81840252afd58d5dd8.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179215_jpg.rf.99bac4affba9f8b8731ed4e612641047.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179238_jpg.rf.4cf40867246e0ea15330a487fc5e595e.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179241_jpg.rf.157cadd23076d58a73b9254ca38bf5d3.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179256_jpg.rf.de245e4a193b88d66086b16274a4e46d.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179263_jpg.rf.591f080db474e50e64528b74c2432748.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179266_jpg.rf.17ef9afa915006539986b9684c8d26db.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179270_jpg.rf.5e5230da3312085b915c626712cdf097.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179273_jpg.rf.3f836c302574e4080ffa93e88daee291.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179288_jpg.rf.66124bce84d5b45818151b4b0a23363d.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179291_jpg.rf.e668a6ac753de426528da2b3fc17c760.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179295_jpg.rf.b66a425320c1c335e8efd77f604ce7e9.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179302_jpg.rf.36bb91b8b4c9e09d37384db7ce530312.jpg,Class 1 - Motorcycles,scooter,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179305_jpg.rf.10c33c44d3bb428bd144f0419a6978d0.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179309_jpg.rf.9ab7c408581ff1aabd607db66c33ea88.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179323_jpg.rf.3773a676b54aab4ed09b4d694b1cf581.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179338_jpg.rf.4328b0fa5d4ae866c0589d43030392cd.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179345_jpg.rf.200652e27617abb179d9b868282fcde9.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179373_jpg.rf.e95563cc6cd37ce54b537ac05077d34a.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179381_jpg.rf.0942c962b97e20644f4e4db9d5b499ea.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179389_jpg.rf.c33e4042a4a6986f86ace094e2037637.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179407_jpg.rf.909d7917153420c004ce9a55b5e409d6.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179414_jpg.rf.fcd4a6483c7596c5074fae4261471ffb.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179441_jpg.rf.9bfb3bab71d917a6908bc33b4078e3c1.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179447_jpg.rf.3d526a3bb5cf763c89526fad1f11d872.jpg,Class 1 - Motorcycles,scooter,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179450_jpg.rf.174c4265f276794273153f6361431ca9.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179457_jpg.rf.a00be1125b82cd73368d915235ec0756.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179467_jpg.rf.b0e132d0ef55b2f652a05f236dc1786a.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179487_jpg.rf.3b13922d0f491b8c59309258372ce976.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179508_jpg.rf.eaf12740e97997bbff2393d370fd6bed.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179511_jpg.rf.0b0bd9dc891c1586ca84ec8120ce2718.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179521_jpg.rf.43ec814b014321b56227f46b8abf5f4a.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179525_jpg.rf.e4cb5d161d20d39b0897730cab2a2ded.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179541_jpg.rf.58cc12db9b7f9f2ba5e357e3eb9db36d.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179547_jpg.rf.7f73f6fd1caa7b408d4b246e0c5176a7.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179550_jpg.rf.45cd01cdb097d34020793febd8897563.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179554_jpg.rf.78e4b7f4b458dcf8b7b1c16668a40c23.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179576_jpg.rf.ccf43222bf8dfbb56e592c5087a1d588.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179579_jpg.rf.dcf750994b5779fc54255c5b93041c95.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179586_jpg.rf.4d4b2681cc17853a7e511b37f3dfea35.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179598_jpg.rf.50c1ba591ed1bf856e3f0c19e64c06ed.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179618_jpg.rf.29086572ecdaa78d40b9440f7b924e3b.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179621_jpg.rf.b33ecc46fa0c34921a5aba5e52837fb1.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179627_jpg.rf.c35bae6c5bcb4ea298e36a7b307f04da.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179635_jpg.rf.d06eaaedf8d9389ac83908b1c73bfc33.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179639_jpg.rf.8aedaef6b7baa7207545790d5f411d81.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179642_jpg.rf.a4079a8d40e4e0f8ee02177d4aa28aa4.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179645_jpg.rf.1f0c224c868cd43b1b20266dfb70e08c.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179649_jpg.rf.9243ee4b0f28015468ceffcc828f85f8.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179658_jpg.rf.71acd6dc459951de8e5f64b0f9728c65.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179674_jpg.rf.8b97eb4a8e5baa94dbe46177bf0a866a.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179690_jpg.rf.79520e54fe78a0fe49e97fe897b49595.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179703_jpg.rf.aa3ccf1c62c0588c0e34bec0d4be5bea.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179715_jpg.rf.7e0eb64461f96d5da5b91c5863da058d.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179722_jpg.rf.4a53734cb76f544fe901c82301931c23.jpg,Class 1 - Motorcycles,scooter,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179725_jpg.rf.35b0788320894fc8bc8e300b0b27bf33.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179728_jpg.rf.a75d86be9553a0c48b28446414a102f1.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179744_jpg.rf.eed56fae26fcf2e8aea51aa9a93557fe.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/1682252179750_jpg.rf.684f1987df9bb30ff35d617d8aea9c06.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/16_jpg.rf.dc636929e20434e1a03373e6792dfe12.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/21_jpg.rf.f1132b74971086943437f85ee950740d.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/31_jpg.rf.b2033dcdbcf6d4e0317c95c33e2ca7cb.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/36_jpg.rf.232df9912245439dab54a133b4849379.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/43_jpg.rf.4448423b643ba00e326775cb3d4a117c.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/45_jpg.rf.39c3656d8d82501e9624f0c5ae74da87.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/478_jpg.rf.68bfa1bbb2db1d3d525962ba389d12e2.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/483_jpg.rf.5c0c0bc349e70a2dbff2625f12a6add8.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/484_jpg.rf.ae189f9939446f0d7aa3a86bdde1bc27.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/510_jpg.rf.4f65f0f2fe8f7936ed539525435d71ba.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/513_jpg.rf.a42f93ace9dc208b8d1750a93cf36d89.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/51_jpg.rf.a9e9be22e3277faba7648002f6554b45.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/52_jpg.rf.a9fed43d5b3b270d53cc07e91e39b2a0.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/71_jpg.rf.2b670b586669b3a96883aa672c9ef4ba.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/793_jpg.rf.7f59c7a23b277d983b32b66162042263.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/81_jpg.rf.a853477545ffb820cb1358973f9c3c5d.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/83_jpg.rf.c5cdde290b755cb08438967ae5e2f048.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/BikesHelmets100_png_jpg.rf.a957f2a54e0655e071aed612be08e520.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/BikesHelmets28_png_jpg.rf.5ad27794b1c4b8cd78ca112fdf9bef15.jpg,Class 1 - Motorcycles,scooter,,True
+benchmark_vlm/master/Class 1 - Motorcycles/BikesHelmets296_png_jpg.rf.dcc5f5e0c3eb948de3173593091fe519.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/BikesHelmets77_png_jpg.rf.7167ed603b3f19d00639452b102b5f8c.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/Motor-108-_jpg.rf.2457927c11f6c0bb2ff992a9b02b8678.jpg,Class 1 - Motorcycles,scooter,,True
+benchmark_vlm/master/Class 1 - Motorcycles/Xe-may-11_jpg.rf.da053511bdfab41eecd6ca77b2c43b2a.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/Xe-may-17_jpg.rf.ddca5f27e3a20e08b583905b0b832da2.jpg,Class 1 - Motorcycles,motorbike,,True
+benchmark_vlm/master/Class 1 - Motorcycles/Xe-may-19_jpg.rf.2411b3dc43fe96330689598f44b7d7a2.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/Xe-may-22_jpg.rf.9327875d49287d5f2749ed6ff379df9e.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/Xe-may-25_jpg.rf.fa3a722da3dfebb6ef61a3e7013b77c0.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/Xe-may-26_jpg.rf.d743448082fc03dbe342eaa126de6653.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/Xe-may-42_jpg.rf.399c5c6802af70e596294adab72d244f.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/Xe-may-43_jpg.rf.57106c9aed583185fd90b89f9792f74a.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/XeDap-49-_jpg.rf.72f24f7d7b658a82c4d736af2d08b011.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/XeDap-66-_jpg.rf.acd35e38e0867510be35c8212bfd4f5f.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/afas_PNG_jpg.rf.1f7ce26da02c543de1564742f9c96f14.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/asd_PNG_jpg.rf.0b7a70b4d0afa59f54a8bea9698a6f04.jpg,Class 1 - Motorcycles,scooter,,True
+benchmark_vlm/master/Class 1 - Motorcycles/asfdasd_PNG_jpg.rf.8170dfeac0f9097ccbceed543601a0db.jpg,Class 1 - Motorcycles,motorcycle,,True
+benchmark_vlm/master/Class 1 - Motorcycles/xe-may-1_jpg.rf.6deed9bbb4a15c2ed4cd090e3dd2b526.jpg,Class 1 - Motorcycles,motorcycle,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000274_jpg.rf.380b69b7daab8ad4d21c0ec523496b5b.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000275_jpg.rf.a69f64163bfcf3c9c5800e2beb1c4a59.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000276_jpg.rf.f074c39df669b677f8b769c77b8d8686.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000297_jpg.rf.073dd57124d3b2148ffd420894a5fbbe.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000311_jpg.rf.482d3aec6d365778fe2f3cc76532bf8b.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000312_jpg.rf.772c9f1560affd94e6ed54c679c8aaa1.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000313_jpg.rf.bfefae59121962869cd3137366318f8a.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000315_jpg.rf.e3cc9dd0a87e734a59c383740a83fe4a.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000316_jpg.rf.20208fa4343009b07ce9acdf4b748663.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000335_jpg.rf.9aed5f25120312015e7a5e59ce4687dc.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000336_jpg.rf.30a1bde857d453c246cdc78947b141e6.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000339_jpg.rf.e646ef771120c924d36a8679841e0105.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000361_jpg.rf.a45ad39d51469c5029aa388974723dab.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000444_jpg.rf.38d82cf4f4b90199bbc0200572228790.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000445_jpg.rf.dcb61529b6d562ddbe65175150fab2ed.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000461_jpg.rf.c966f286c43a08ce5c12a5d4f96226c9.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000464_jpg.rf.a70fa287307bfc1f4aa43c5790364771.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000466_jpg.rf.4faba6650f26af0ceb1a8a65d61b0f20.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000467_jpg.rf.62a43c5f865372bd2a234ea89cd08671.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000490_jpg.rf.3742fd42001335976da623c8c99124aa.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000505_jpg.rf.ba14315507c803b2c929927c64ea8730.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000506_jpg.rf.f76b609aa605817a724f10717f26c389.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000507_jpg.rf.f3919abc57dfcffa7f9fc7875a2c8bef.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000529_jpg.rf.348ce7eab88459b14750fd5a34013957.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000530_jpg.rf.13ebbd9621cf225e0eb89c7072581d61.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000531_jpg.rf.c845362019c6333456da0d5068d4d63d.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000550_jpg.rf.a7174683bd0bf3d0cb44ffb579acfce1.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000561_jpg.rf.3e8bc6429181e5991d0d43038c614064.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000562_jpg.rf.c6bd164b70969c604d70ea0232aa2e7a.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000565_jpg.rf.ead645c626a9fabe56fc0aee6001328a.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/000566_jpg.rf.0ea256010bb12f78659a944bad45e902.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002387_jpg.rf.a2dca53ee5894469452990d1a3622245.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002389_jpg.rf.b33ae7994bf1e2d694e53e9f77866a44.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002398_jpg.rf.9e92ffdfbf93f1c430985400c273dac8.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002401_jpg.rf.3bf610d60cd25f158de9504404607abe.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002402_jpg.rf.14c365417fae2a0c8dd178c4b705407f.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002404_jpg.rf.62500dbfbe85d7c2557ce73ef92b8dae.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002405_jpg.rf.ab836176d88b67f65fd128ee4cdadbbe.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002407_jpg.rf.4df9b4384fa45daedb6b0af435b67e1b.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002408_jpg.rf.df07ddd51066428d8d92d320bd3f8797.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002410_jpg.rf.d5af64955a1f9cf8367a2678b2c1634b.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002412_jpg.rf.3b14261d43f2355e23c1c26aca96eb63.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002413_jpg.rf.8566d339710de668f1b1db75eb43abad.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002416_jpg.rf.ac7cbe704a734b5e175fa457870b88db.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002417_jpg.rf.7ee73f3a4a1bdad66d3580a1a390ec0d.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002421_jpg.rf.c4e565d32d1ab44cd793d33ab910b114.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002423_jpg.rf.eaf9c79bb858acebe879a17295e860a0.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002424_jpg.rf.2282a9b269a07b90d597a1aaec4bed51.jpg","Class 2 - Car, SUV, Station Wagons",wagon,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002600_jpg.rf.78e65458da0ad87629538ae0a2a7c55f.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002953_jpg.rf.c7c3dc7024decb89c16cdd5d8cbaff73.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002956_jpg.rf.067052d6305673e9db2bee0ed19b79d4.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002957_jpg.rf.5f9173e8a16a1305ce9bb409a6fa2b74.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002958_jpg.rf.91679d26ee8c8bf1b4b70bdd3f4d75dd.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002960_jpg.rf.e08c581f3ac12f0a9ea2450e3cf663f9.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002973_jpg.rf.aad593878f0f02b0249d2ab3ca0b89f1.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/002997_jpg.rf.9a45e193d5cc75f998ca75ce869b9456.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003018_jpg.rf.2ec9b910f09f7dfa78938d1f90167486.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003021_jpg.rf.504ea4a3e9cd2710266c07dc7ee74f9c.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003025_jpg.rf.f2ab22145daa945b78e2d59a7e42f91a.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003839_jpg.rf.70def134a0b36966906f884327b04fca.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003843_jpg.rf.b455a35dd2da21a4bd38f740c835984e.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003845_jpg.rf.f402447ce8c8b027905b756147c59e22.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003858_jpg.rf.1fa3a2a1b05a963ef1cf7d24cd7a73c7.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003865_jpg.rf.6e45b8c437231bebefb23d5333bfcae7.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003866_jpg.rf.bcc31747bc991ad7debe06b00be7dd6b.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003886_jpg.rf.c9b586091ab69c2bf2227417c0f14c7b.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/003887_jpg.rf.e4f86be67bf9928d3a086b60ca4bc63e.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/004823_jpg.rf.66fab7edd934cecadc1713b8d4d1cda1.jpg","Class 2 - Car, SUV, Station Wagons",mpv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/004825_jpg.rf.e7157c15ee1bb88ad40598ea3768c0c8.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/004868_jpg.rf.e859a06e47a60e08767a48650d353d4a.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/004870_jpg.rf.64b431965b7ff75f33b40d01fc3eb4f9.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/004871_jpg.rf.801bed41ddfe8adcb44e4f741455345e.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/008111_jpg.rf.d22e8bed2ce3cb2f9ab4e3faf2e5c5e9.jpg","Class 2 - Car, SUV, Station Wagons",convertible,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/013929_jpg.rf.ebe5169d054bf8fc2fbaeeec2946e6fa.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/013930_jpg.rf.6c22a974bc71373159595992ded98511.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/013931_jpg.rf.d4372495b87ef4fa1005a1091482d1ef.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/013932_jpg.rf.169bbf878742c36bb61d4c0f5dfd4664.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/013972_jpg.rf.186632669cb0d2bb4948ea1c11d98abc.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/013997_jpg.rf.ec33523b74cbc8d0100a75c8c09592cc.jpg","Class 2 - Car, SUV, Station Wagons",suv,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015184_jpg.rf.108f69aaa45beeed9b913ad193f5f0c7.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015198_jpg.rf.7fd7bf907daab9c2e970acc77690f9c7.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015199_jpg.rf.d954e80e507a1a47c558119e891be4fa.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015200_jpg.rf.4c2d2bafbfc640d5df9a6156af20b8f0.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015222_jpg.rf.29d8df2de47c5d0bfde00889cfebd8f5.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015223_jpg.rf.cc54f65dbf147b31e40cb04af029faed.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015224_jpg.rf.70e9092af529a917bf252bef917328aa.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015243_jpg.rf.c710bd3b5cef8ab2ecbde1589622f5e7.jpg","Class 2 - Car, SUV, Station Wagons",sedan,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015771_jpg.rf.d4b2ddf7639a30bed503703485d977c1.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015772_jpg.rf.6eb01c71fe1a9c0653cb83473a8a1250.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015776_jpg.rf.c8be8baef05482ef1ce57dfba546fe42.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015797_jpg.rf.a54dedcc06507ec3a685c6d7fecf924c.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015798_jpg.rf.a7b6e4a903866a0e9df8ec896f4b61b7.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015799_jpg.rf.12df0ca60d7efa6280b64a7053debdef.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015800_jpg.rf.981a466d3b30cd24cd10a95aea94dd63.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015801_jpg.rf.a634ad8ef29d81425473b29dd8b09faa.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015840_jpg.rf.7d8c5b8f4a5c1e31dc0b946f3f679be0.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/015842_jpg.rf.dd77de8f13ec08367d0054b99807fd7f.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/016127_jpg.rf.85ccf671bd2bf321f5ec6fff2987e0d3.jpg","Class 2 - Car, SUV, Station Wagons",car,,True
+"benchmark_vlm/master/Class 2 - Car, SUV, Station Wagons/016180_jpg.rf.87c97a3faf75dbcbee883e8ac64a4bce.jpg","Class 2 - Car, SUV, Station Wagons",convertible,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/004318_jpg.rf.0ea36a973c621d3748df4dab9870ae7b.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/004320_jpg.rf.5a851c1ac227356aaac89aaa6cf5ab33.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/004324_jpg.rf.309661c37ac25edeff9cdd191f8c5bf8.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/004325_jpg.rf.fbb2d039877ffc81bb1d1f0b23b88a18.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/004340_jpg.rf.5b61763f5d13b983e467a93a2e8dd028.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/004343_jpg.rf.742ea55b176570978145099bd2c49cf8.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005261_jpg.rf.68ad7bfa52f6f264aa7d5ef36c7b7b73.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005519_jpg.rf.c7fed58bbb2fdfa260e455b80804d383.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005534_jpg.rf.8a58bb7df18201b97688fa0a22b22929.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005535_jpg.rf.2b38fb22a1dfc1287ac7ba8fa6b5c905.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005536_jpg.rf.427a164a8751000675b51bd9c9d35e48.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005538_jpg.rf.57687a354c8191c7d4f6cbaa2d38305a.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005539_jpg.rf.b9c10b983aeeedee89772d27ba81e2ef.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005559_jpg.rf.b0febc7a7692f528593e2f5979129f2a.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005560_jpg.rf.ac3ad1f988cff909ca62f237b93afb0f.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005561_jpg.rf.ef122e713b76ebb062a58c7bb72b4b99.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005605_jpg.rf.1100e7ad4b80dc00c161d97e8505760d.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005643_jpg.rf.eec28aa5ec5bea4f1892a9d5d261fc5f.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005644_jpg.rf.4801cb6c6b48e38ef5b96e4992033e13.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005658_jpg.rf.cc9e8cb4e962ab931d27e84d5dc893c4.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005660_jpg.rf.6b541e16745ca2f4674aed173a5dff6c.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005661_jpg.rf.fa18f84f095be5c515da9098ea6e9ea4.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005662_jpg.rf.fd0de2a479597d5de8e3a7575f48b92d.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005679_jpg.rf.9c7c87648cc7b14f46d35254c46fb846.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005946_jpg.rf.59e649f24857336e40ae9e14dd133b91.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005959_jpg.rf.4c08632a44fa3a55dde7f46b4f506c81.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005964_jpg.rf.93a4d56994de05084fa2624727ad6ddb.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/005967_jpg.rf.9a9adf77ae9b2f3c977c6a09dc317f19.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006004_jpg.rf.b5612174996ee2ce85c9cec671d3df77.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006023_jpg.rf.d41381edf05d4955db99b02ee762fd8a.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006046_jpg.rf.ccea59c90de62d0a237aacb98e673686.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006047_jpg.rf.811a213156e1174670d3ef4220fd4475.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006048_jpg.rf.7dde822cb776f9d935aff48253baa90d.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006965_jpg.rf.69abf28cff1838c2f698761f13ef7924.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006967_jpg.rf.c09a6eeca96a295489b33226ad0c19c5.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006968_jpg.rf.d7eccfcea6ce03fa48b06386c7b2762a.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006969_jpg.rf.129d002a5ef1ef1d0938bdd49ea48fc9.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006971_jpg.rf.d5e4a5c793e227460354c9b983c5eca2.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/006985_jpg.rf.dc1cc32242cc43903f682146762bbd04.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007009_jpg.rf.ddc14fb67046d0ab20d700bc5907664b.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007031_jpg.rf.28f6844384b967059ea9d25d75800675.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007032_jpg.rf.43a999d3a655635b8219c74491bdb94f.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007033_jpg.rf.e3d889bf76870426a6c327df9c8e074b.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007048_jpg.rf.6ae86d6a5d21931578484d6b740dcc38.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007051_jpg.rf.fca26e9af769566e6bb3c9118e43d8b8.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007053_jpg.rf.32c45e8890192c82b9d16a53691d8562.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007054_jpg.rf.c9d7047b1a3b662b993a6618b980c228.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007055_jpg.rf.5cd5125a95fc47f6ec88872d35d42bad.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007072_jpg.rf.2fd0460be80d82d6e6fd7c0800101731.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007095_jpg.rf.d4a69c1f1890620c621a4d384d318ec5.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007096_jpg.rf.712a99f00cfb7ba1c9653d0b24fa1d4d.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007116_jpg.rf.b456091453d674d23d0209216814ecd7.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007117_jpg.rf.8ec6d19fa94449f08d81484aa651b4c6.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007118_jpg.rf.bd6dee8de621f28107b3835d3fe2a1af.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007133_jpg.rf.a3c6a04dca3339cd7f93a2c759dc8dee.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007134_jpg.rf.83e8305ec580473b0448d95d44663155.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007344_jpg.rf.4417c530fcfa44f9d25eed1c789f25f3.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007345_jpg.rf.ce5c6bbb5b5877c63c379850ebad8ecb.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007365_jpg.rf.585560295486eb017216dea92a48c71b.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007366_jpg.rf.2b07c128bf86b01b995af477dbe512a6.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007384_jpg.rf.8b577edcab33043061ff618040e27b08.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007385_jpg.rf.736ab5f05aabfc158c42f857c4e3c5bd.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007412_jpg.rf.cb2ac310ed2900ee6fd665e0883440dc.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007435_jpg.rf.5a81c9942487d4fcd23c10175ecd9cb9.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007448_jpg.rf.b7a514ef32f521badd1de8303e8f0684.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007449_jpg.rf.bb4ee81c185998f98576e54b5f1a1321.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/007454_jpg.rf.3c8cd7afe9427d43eb04461c674877a9.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/008597_jpg.rf.a0e4d1c2a0991686723082ce03b66561.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/008598_jpg.rf.c95c5baed1031fe310c9afe4f9317f48.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/008601_jpg.rf.a2611f72d294066d3e68eb7f932e2a16.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/008623_jpg.rf.e0ff6f6267f6f484397852217baf863b.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/008625_jpg.rf.f8c803bbf1491966f1277008a4faf4f2.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/008626_jpg.rf.5050cefa9b4e35e4bee9a2b53e89cceb.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/008670_jpg.rf.04854fc31776e231f4675fd2e8d3bfe4.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009049_jpg.rf.03ea1ef8e19d8dd5a90c2f9eebcb539c.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009051_jpg.rf.3a01763f6de82adc86361502e1123a4e.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009065_jpg.rf.40811f3e0194ecfd77432bf01eb53882.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009068_jpg.rf.8abcdc87c989079e5ea6fa182aacadc9.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009070_jpg.rf.ed352c1e4364a2085e0b366f8241227d.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009071_jpg.rf.2e50085ddc867db5b4bc606743923829.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009086_jpg.rf.94836460e0475c5f2427873bd9d14c66.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009089_jpg.rf.3980313dc89ee76764b343b2daa2e9ce.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009204_jpg.rf.7fa6e7e57206c44c4335612f93e8dcc6.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009206_jpg.rf.1090aa504f8a14a3c892bf8a58c634ed.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009225_jpg.rf.539d453635918f329c9748030a686e6a.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009266_jpg.rf.e804225fc7347745910b1593c633dff3.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009267_jpg.rf.4a0ea755f1675c58450b18439b98e626.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009282_jpg.rf.208566f2a320e764994ffdd6b02b9220.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009284_jpg.rf.a1e64b7aa9d5f69c1cd186d0d42523f2.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009308_jpg.rf.37a038b2270a26fbcc5f11f16814cef0.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009309_jpg.rf.0100fe19870a85c15de88b36adf7349f.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009311_jpg.rf.65e08d7b4491f0a70c22c2364b73cbac.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009313_jpg.rf.bfe2347a9d69a16a408d247d158054f8.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009329_jpg.rf.2638b36f8779a5decbcb851ea6977721.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009330_jpg.rf.d8cdedc15e5705a5ced8402a0d029180.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/009332_jpg.rf.430f58639fdaccffd8adb4b0ab1e4582.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/010011_jpg.rf.9163abdaf43714069a922b6da8b9e34a.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/010012_jpg.rf.d969357c7be6f6bcef531b9093040607.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/010018_jpg.rf.bd1e0fe072b4a0c6eee71fea0607ad03.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/pickup/010026_jpg.rf.e003e197ccd61d50f1d23153aab1a790.jpg",pickup,pickup truck,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/005682_jpg.rf.fefa815c77a6021f57318b0a72d87173.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/005702_jpg.rf.838f7182853d76433ee80fa9c34674d5.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/005703_jpg.rf.3885aee0cba15680056dfa3aa9a8a244.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/005704_jpg.rf.1998ef66e3dd7e73072b78eb8f907e67.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/005705_jpg.rf.37cd636ac8860ec0822527310247abfd.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/005706_jpg.rf.edf0b17febdb18e8d1d61462ecc88ff1.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/005733_jpg.rf.426dadfede45def5f96784206293015c.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/005747_jpg.rf.ed50e036ee260f8923c29748b390e359.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006881_jpg.rf.21385f36542322178c3fdbfac72052ff.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006882_jpg.rf.e3e13610dda3018ce46f03b79571953c.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006883_jpg.rf.c0e0a80a00eee512ab584232ee5c1018.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006885_jpg.rf.40e2284d0ffce8539a833221062f8049.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006901_jpg.rf.3df0f0243104ccbd2bc730bc008062f6.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006905_jpg.rf.c60f91d85124d55156919f59e8f8d789.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006906_jpg.rf.2db31a0af39cc194284817adfb6e923f.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006907_jpg.rf.18af9d616044482e3762f7e2562c460f.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006908_jpg.rf.cbba71e08fa9dad9e4efee2ba01044ec.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006930_jpg.rf.bdeb586bf47e2105458b516d86db9226.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006931_jpg.rf.bfb217f952d5cf5d888e328588427f17.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006933_jpg.rf.9910bb45375f01b8b5d83640013b92b6.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006940_jpg.rf.8a3d53f52ba10262e67582af0bac5071.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/006942_jpg.rf.cba5a9dc5443bbb5faecd56c643ac680.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007137_jpg.rf.946a3ce741174e661d01f6f6ee231a37.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007138_jpg.rf.0d41b2941a50eac27d5184eb29b46835.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007139_jpg.rf.55f4e5bb08bc003dca9f38465499f8aa.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007140_jpg.rf.882c4efd20b336a706dff2923a975343.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007142_jpg.rf.dd1678b550f8cadefc1c19257d858eba.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007143_jpg.rf.79d569f91be4f406a15f010b02653dea.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007162_jpg.rf.191e8b3f51778d95a53f59909b29538a.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007165_jpg.rf.2d0a7f5eb742ce6e04d0a8e86ec0fa39.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007166_jpg.rf.2b95718367e2f1eefa48ffd447bc1985.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007167_jpg.rf.680aef2b580d3bde8a11d2b8212d6cdf.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007169_jpg.rf.1054c76e9f399dfcdce24b8bae190b0f.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/007170_jpg.rf.31f1576a1fd610e80ce8dc0ddbb0366b.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008807_jpg.rf.b52c73140ab74f2725b94fcde02af17b.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008809_jpg.rf.884aad3187e1a176d71668f3b617bda8.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008810_jpg.rf.4bd13e7b1b8080978bb4587c8e5e0cd0.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008818_jpg.rf.ae8c113c0789c504f62dbbe6db8e06e6.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008819_jpg.rf.e454972a01012e09aa7b05c2fa759a06.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008820_jpg.rf.9b339cb02bb0d4f021798893009ff008.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008841_jpg.rf.dc1767ccb7f61123282a27a3af8eb617.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008843_jpg.rf.3262846d9836057276b54ccf4d808b20.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008844_jpg.rf.09ec0557800a042e69a0d04551fe8970.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008845_jpg.rf.146a474004f7555a96fb8c86ce07c26c.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008846_jpg.rf.e8af51e612a8a202af95b6323fda3f36.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/008847_jpg.rf.816632368d8a12aaad187cd7b6abb178.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009491_jpg.rf.9b370838465a1004d4fd8bf97c9a0d53.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009492_jpg.rf.e504415e61a0974c3446fe0ffa99e9c9.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009509_jpg.rf.69d1cbcd577ab7f879c4fb042720329c.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009510_jpg.rf.46c38104333bbd341cc755cc21d09a15.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009518_jpg.rf.4fb1adb4e40b2d5eb59ef69652ff5100.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009519_jpg.rf.7dfb744434ba46a712a0fd2ceca1b480.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009520_jpg.rf.c65099917abc2d97c4bdcc88f922e1c4.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009709_jpg.rf.ca16a8ad9ad2b688342c42d6519b4616.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009710_jpg.rf.fed6dd79ab14d29ee3c4d5a6ac8daadd.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009711_jpg.rf.fca6abdbf0e77fb8baa86b27acf55f01.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009712_jpg.rf.b5a7d11ffd1c746a1457bf62c0bdbaa4.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009739_jpg.rf.2446d24c4153121f22eaaf190fd386db.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009743_jpg.rf.4fb540facabf277c45c26a175feb45e0.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009744_jpg.rf.bae358c67324ab085fa1d5d56d77e0b6.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009749_jpg.rf.851c175f7e23d94a008d5d65120ee7e0.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009763_jpg.rf.7979d14d03fc026160def7928a5b99e5.jpg",van,truck,,False
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/009773_jpg.rf.e7859862ca58aa48d859028adc62c6ff.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010028_jpg.rf.7453389dfdd226d1d63b25522a5af386.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010029_jpg.rf.21b02b941fc76b6cd00f4cead20ea405.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010030_jpg.rf.862ea392305dac7adb0e741ebe624dd9.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010051_jpg.rf.935d6514b12d77cdafbe4fb58daf58ef.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010052_jpg.rf.1379358900d09358e9347e12389ab59c.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010082_jpg.rf.a1ef686baa460654b8789fb4951a9980.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010083_jpg.rf.7241f1b05e2242cb199243f90891887b.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010084_jpg.rf.52fb15dca8a48ddecac11184fa63fef5.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010089_jpg.rf.2bde9af1daaac7940108f0c058884547.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010436_jpg.rf.92bfb7ee9d6e68fedaab5ea51c06ac77.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010437_jpg.rf.3cd13b652f136bc8d8f06d3ff276eb1e.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010458_jpg.rf.50d6fb44bedc61bce33ddf446b91eefb.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010459_jpg.rf.51deb1a0bce3ad677db0e9d65c02c726.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010460_jpg.rf.879c282793d5f8af9ca3192d3bb126fd.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010461_jpg.rf.05db9c08da7ad9e2ee400253b444fd56.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010462_jpg.rf.963666efc71d60485c23506eec12e35a.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010491_jpg.rf.5a29ec0a9b59b9bcf66494b3baaaffe6.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010492_jpg.rf.a8a0e99affb3db0aa20cbd4695058cc7.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010493_jpg.rf.c65ad03ee35cdeebaa3c95558b14dd47.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010509_jpg.rf.d8c6660778b82e32abd8c8070afa1bca.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010510_jpg.rf.fcb2e010765744bf061402feb1ed1c6b.jpg",van,mpv,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010511_jpg.rf.a02c9e81f913fa4f095e489a798bd663.jpg",van,minivan,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/010517_jpg.rf.5d6a8132697d9736aa2e6e53e121269c.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013582_jpg.rf.7217aa416c4b615f2bd0f277c2a5aa45.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013583_jpg.rf.8516c8325b9d866265f29c65bb5e0ee9.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013605_jpg.rf.39f230354244d73c37c4bbef7d6b1097.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013606_jpg.rf.8e1554d5488260d1de82c2bf64a71415.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013637_jpg.rf.53018c26e6383a23a07ee619399e50e4.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013639_jpg.rf.41643d9bdf8df14fb00a746fbfde13e2.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013870_jpg.rf.1e2ba43973191ad0b5a923a4bcf8915b.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013871_jpg.rf.8858cf08a6f7a60d19d3a8f578093d75.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013891_jpg.rf.e42634273235b21ccb4088d2e42ef9e5.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013892_jpg.rf.02e45096951f18b77d6aa065560992a9.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013894_jpg.rf.15516493b6580eff456cdd2fdb718a65.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013895_jpg.rf.46c21fcda3a47d46cae9bee8a9cb3429.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013896_jpg.rf.b21f337937688cc45b36584475c32311.jpg",van,van,,True
+"benchmark_vlm/master/Class 3 - 2 axle lorry, van, pickup/van/013897_jpg.rf.07c154bb9bd23cd0e58d3dc13fc3061f.jpg",van,van,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/-_png_jpg.rf.2c1b96b3f152cbfee86caf6e81e4a15b.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/-_png_jpg.rf.78b0e5b95524ff631432ffc20d5a5481.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/-_png_jpg.rf.a3e6664758c8cfaab935ec4015229b76.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/-_png_jpg.rf.dcbe3505986cee2482e7f7bfeeea0c04.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/-_png_jpg.rf.f5bd563dd72fc131e1db63a7ec36503f.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/115_jpg.rf.830159c93f026cf7d82d65950867ef3b.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/136_jpg.rf.1de6b54ab13eea53790f459ab9056901.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/14ef794a351c5ab71271841cae74e7f8_jpg.rf.4b3585bcfde8b645d6bc8882d736b229.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/153_jpg.rf.beb8de6e2828dc930153a5fe8af0661b.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252169855_jpg.rf.64230371f29752ddd64a7df8bbc5dc5b.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252169885_jpg.rf.a17aa5bb9f42f0ae65fe57519e3a1d26.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252169893_jpg.rf.749c7f6a5de48ea9e461e9247698b072.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252169896_jpg.rf.815c3d2f514efdde70196dd413b0aa4f.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252170045_jpg.rf.e07d7381692f75e0571b41937675af57.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252170060_jpg.rf.c6c9682d89ef1e6980be7d00a8610826.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252170289_jpg.rf.473d489706568972695c108204babc09.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252170437_jpg.rf.06ae590b2d8595bc17b3b0b1c584add8.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252170555_jpg.rf.908ffa804b592a5d4a37b8ebfb097888.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252170559_jpg.rf.88b8d198533d23665a09d7dd8b9dbc00.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/1682252170588_jpg.rf.e3e9643dd25a8af2d84c87f8837e06cc.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/215_jpg.rf.5ebec9f851543be7c359ad21f527207d.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/220_jpg.rf.c5dbb97b523e8085569a91c09b73fe50.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/221_jpg.rf.d45ea3a5c19396675b1c1d6c43421667.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/23a2507b8bb31bd2a5c667f4f93deb60_jpg.rf.5a6c90056218032963a4a00184505784.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/29_jpg.rf.d032ca4aafdfb882e72db4c7ff77b996.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/2bfeb49907e14959e9403633d29a92d2_jpg.rf.809472b79aded36cff427d13452abacf.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/3496small_jpg.rf.0d80bbba852e4205e850fc1d8bdab645.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/35_jpg.rf.61fee684f8864c644a4696a2367bcd72.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/384d344516bbe06da0c2a4cab6e3ed13_jpg.rf.55919c67382b343fc1d490bcda97f814.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/40_jpg.rf.3984d8fb06e99186fe4dae2a20b4a531.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/44_jpg.rf.fff0be26179b3166fc959862d48ebd88.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/50_jpg.rf.8ef05480e29910d2d0b479fef40a4aab.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/66_jpg.rf.3cf4fc405f9cd606bb4e866b121fa514.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/7-_png_jpg.rf.67e42d05dab3e15576f03344843df40b.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/97_jpg.rf.57dca589877e6d219f6f9dced2227447.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/_-_-32-_png_jpg.rf.16ef71c4813f6ba669424505ad848b8c.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/_-_-33-_png_jpg.rf.c2cdc9e522687f4674efa3ebc9b30be1.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/_-_-34-_png_jpg.rf.641f5500ff4e9e05b957a88256572c7d.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/_-_-39-_png_jpg.rf.af71006e544b37df25718a8e51ff90f8.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/_-_-47-_png_jpg.rf.a8d176b5b07917fd45901666cadd69ba.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/_-_-6-_png_jpg.rf.78400a375d73c150da87d73b97b98c64.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/bus 2/e1ab3d4b9afb1338443870332b9e8d28_jpg.rf.03c8778165a9f5e1059f7192af074640.jpg",bus 2,bus,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/-4023618c44_jpg.rf.671314ae92ace3914a25b390448aa5ee.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/-e38a6febcc_jpg.rf.2161923c423c4d6eae15e8399fcf5edd.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/-f07361ac03_jpg.rf.10d40c41b5c9854716d2c3165d0b520e.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/0000147617-e4eb190337827f8bbbcc9317d_jpg.rf.3441e1609aa29fe318b0c2cae1dd0fb3.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/0000161190-eff4a7d6440628a6ed58e9d9a_jpg.rf.028e402e168cb50f5778e015096d8ba4.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/013877-1-lg_jpg.rf.09b052fa6ab2ced6f5244ca538f6e323.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/018_jpg.rf.3c44b061d485eb4fdf434b04042ebb3e.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/12988780_MTAwMC03OTUtYTcxNGRiOGUwZQ_jpg.rf.489ef6e0660fa84064e57fe57cc0bdd6.jpg",truck 2,pickup truck,,False
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/1365-_jpg.rf.838991ba01af166efff3924b0a33738b.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/1517432936821_jpg.rf.26a37130aaaed7ccbe8d62a0aa35bea9.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/17828_5789ACS01_2_jpg.rf.d46647e871863abc304e376367d755f8.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/1990-mitsubishi-fuso-fk-flatbed-dump_jpg.rf.2ef5c658362450cd8fd4cc06121dfa90.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/1991_mitsubishi_fuso_canter_4wd_1567_jpg.rf.d3ea9124cb4e61d42ee4f151b39bf82a.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/1992-Mitsubishi-FUSO-Fighter-private_jpg.rf.dd5f0ed8da328e53e216828716973ef8.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/1997-mitsubishi-fuso-fh211-20-ft-box_jpg.rf.22ad5dd535277f2ccf6a0ac315e87ead.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/1997_mitsubishi_fuso_cab_over_box_tr-1_jpg.rf.206c17b2521538148b840e43bfb0f060.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/2003-mitsubishi-fuso-box-truck-26253_jpg.rf.8fbd4017aaf8c3ebf9a71c6d6713538d.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/2004-mitsubishi-fh-fuso-cab-and-chas_jpg.rf.a195664d5697d3efe1e748e5e0212cf1.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/2005-mitsubishi-fuso-fm260-24ft-box-_jpg.rf.5ab47caf6254b332d45f2690ede924cc.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/2007-mitsubishi-fuso-fk200-24ft-box-_jpg.rf.5ebcbdc6796851c4f64a74edb8389301.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/2008-mitsubishi-fuso-wrecker-tow-tru-1_jpg.rf.40ea3a807b47bd397794d03d13a7e1c7.jpg",truck 2,tow truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/2010-mitsubishi-fuso-26-ft-box-truck_jpg.rf.0d1f4ac9da63eb427b9e78b8f3d19153.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/2012-mitsubishi-fuso-fe160-16ft-dump-2_jpg.rf.fdee97766f0f27c43ac8117f4ede6924.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/20121009_123807_jpg.rf.d239b8de08b06417323c44a0f4843c31.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/2013-Mitsubishi-18ft-Refrigerated-Va_jpg.rf.e4386e5f732ed12b050bd43da6b76c87.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/2015-Mitsubishi-Fuso-Canter-7C15-4x2-1_jpg.rf.57a166fdad6387d04d54bcbda71f5826.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/25397-colt-fe-truk-mitsubishi-colt-d_jpg.rf.9eb3557e27e43c186ef8f389dcbbc0bb.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/3059_en_43493_17596_fuso_canter_fg4x_jpg.rf.1cdf52b1cc8f799c59ae552d2906fe05.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/3173ec56-a792-47ff-9b18-79fc37729b95_jpg.rf.f5ed0ba4deebf2d9def68b98138c8522.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/36484_48363_248254_jpg.rf.b88192c15f97d21d24615cdbbb55779b.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/36486_48365_248258_jpg.rf.9344b75a90bc344f57e1481b1dba93f6.jpg",truck 2,pickup truck,,False
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/4261621862_jpg.rf.3805101d7938caa16115cac9f1888644.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/45490_57349_308284_jpg.rf.b380031708f03f88e2aec0876d448eb8.jpg",truck 2,pickup truck,,False
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/57368a_jpg.rf.31efe904ec175d41091e87fc063f0427.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/6007931417_jpg.rf.ac1b70196b3ee23293382989f24de634.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/6ed4bc32-ec4f-475a-996d-64ad159da3ea_jpg.rf.25e2fcc28a394c4f2c6398948b753a52.jpg",truck 2,dump truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/78cbb800f39547482264de1748600fc3-1_jpg.rf.6fc34e04cbc8cf77a66ed3e2ad60dc83.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/800_jpg.rf.b77eae11c94f5d187e5a46f8cc99d784.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/9041_1413578135698_jpg.rf.14cd5f17f66ac25827a9ae2d86725717.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/999589157_7_jpg.rf.bbcf5a58bb021da260968b1ac3979b8d.jpg",truck 2,pickup truck,,False
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/IMG_20150904_105454_jpg.rf.7ed55b068fda2799dc75292aa2547917.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013198_jpg.rf.3e9246de32c64111b29ab5b4f61f3347.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013208_jpg.rf.2cf104739962d76597096bb48bc7e8d0.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013255_jpg.rf.e892cc209c8d0d0461f2df148ea56b7c.jpg",truck 2,lorry,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013270_jpg.rf.955a3909d176edcb979cb9c24651463b.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013289_jpg.rf.00091a0ca2042de35c73805d5bfda33b.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013305_jpg.rf.d1b7cfe313973abc19be05fde9db8c49.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013311_jpg.rf.7453e562a37d60cfeab79ec27af4dc29.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013330_jpg.rf.f7fb21215c534bfd3f9b75c0b8e62096.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013331_jpg.rf.12d30a374c357a938f1e2e7306c46f7c.jpg",truck 2,lorry,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013336_jpg.rf.f71f593c1731975a2f0bdff40610a90c.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013366_jpg.rf.b49ec643497edf417460d859bfde5658.jpg",truck 2,lorry,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013376_jpg.rf.a51e692d0072c1cfc48565189adaa21b.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013395_jpg.rf.e8d8d368b7203e1a19d5aa6c65382e7a.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013406_jpg.rf.54e41cc1e39f2f57d1bfdd377dc36727.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013407_jpg.rf.2a1a073625dafdf63819d705dd984f56.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013410_jpg.rf.3ccbd165b26a4d866e9d070e0cf4a812.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013453_jpg.rf.c4ff83dc9d590353b9a87670c02db116.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013454_jpg.rf.fc666103febf8225cf4f7d3fc557a6e1.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013462_jpg.rf.066bc1c522b63cdd42934f075d6b178f.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013497_jpg.rf.93e691fd42d4addae7fac98f05f6f8b0.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013499_jpg.rf.b01828d395c1f82e554beaf8dbd12119.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013505_jpg.rf.baba0a6af62e36b1e88da5aaead4b8bb.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013508_jpg.rf.fe447fd28649e77daeaa7374572318c1.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013513_jpg.rf.9d4f1744a9b12116b2b6c76f8c8d76e0.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013517_jpg.rf.ec102da94ffc48a249a2cdb2e20fefba.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013561_jpg.rf.752a0e2d0db2fc1d8faacde45223d3b6.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013568_jpg.rf.d737be4e77c29e6af8751d08f61660a0.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013580_jpg.rf.18e286dbd00e5bc1cfe64d18ae0efc72.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013592_jpg.rf.deda081f4ea7eb46fef5f54a040de4f1.jpg",truck 2,lorry,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Image_013601_jpg.rf.ebf2c636da29a0688b7ade3e2b8b44c1.jpg",truck 2,lorry,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Isuzu-2BGiga-2BFVR-2BS-2BWing-2BBox_jpg.rf.c9f3e0513f86cf19bda6c93051bfc2bc.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/JTFD4025725-1_jpg.rf.81c3c07f9bafabcac679350692ab0500.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/JTW3348940-6_jpg.rf.f865d06a56860f9a6f17422f59eeb784.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Landscape-Trucks-Mitsubishi-Fuso-FE1_jpg.rf.7dee6ddaf6d1fa866b94bdc05aa176fc.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Mitsubishi-Fuso-Truck-of-America-600_jpg.rf.8fd4e283351c554d85e6ac223a7c4e46.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Mitsubishi-Fuso-Truck-of-America_jpg.rf.921969658dba7db6ff44192c559c4382.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Mitsubishi-Fuso_mp36_pic_105519_jpg.rf.e800b6f50bd011c52e2ca49abf048867.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Modifikasi-Truk-Canter-2013_jpg.rf.49d28fde27e19e33c51eac36edd1ef81.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/Modifikasi-Truk-Ragasa_jpg.rf.08f06f819039082f5d17f017e9bcccbc.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/ad-assets-2F2020-08-2F1597034527_ctt_jpg.rf.ee64639d41c20f1353cf7e97253d78cd.jpg",truck 2,pickup truck,,False
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/ad-assets-2FJTFD4025185-2FJTFD402518-1_jpg.rf.677dbf56da87a222f2589e6fb462f437.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/bak-truk-modifikasi_jpg.rf.a6fcebcf1c6f82d8ee1456f356466b2b.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/fe-120-ps574_jpg.rf.dfb6f39f6d003b133602c44ae1ec5048.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/harga-colt-diesel-tan-truk-mitsubish_jpg.rf.77191f3189beeb2a7412818fb9ac86c6.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/hqdefault-14_jpg.rf.77b2c9f3555cfad4fe0ea6cda7216b4f.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/image6_jpg.rf.e6b66954704659d6bfc79885a9c600e3.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/maxresdefault-14_jpg.rf.34d795ed25dd5eeff507ca7e37bb7a7f.jpg",truck 2,dump truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/maxresdefault-2_jpg.rf.5276284290452d49903d6523cfbd8e59.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/maxresdefault-9_jpg.rf.a29e72bf6c7f02198514564b976afdcc.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/mitsubishi-canter-339fdca1_jpg.rf.22547d841c0cafea72c6850438e2064d.jpg",truck 2,pickup truck,,False
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/mitsubishi-canter-fe-74-hd-truck-cha_jpg.rf.8167df73f5e5486336f14cf18b4afc9e.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/mitsubishi-fuso-canter-4x4-chassis-t_jpg.rf.b739f66d8b6603c3d6a3da2922822772.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/mitsubishi-fuso-canter-fg-dump-truck_jpg.rf.4b13e6baa822f579fdfdeebe6672373e.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/mitsubishi-fuso-fe-180-182716081529-_jpg.rf.1bba390eb6b6e9a0d94feb9e3ae13b69.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/mitsubishi-fuso-fe140-diesel-16ft-bo_jpg.rf.ca7da57f2abbf95ec268d78d9ed5e3aa.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/mitsubishi-refrigerated-trucks-cante_jpg.rf.a72b30a97b3c676fb5f634440ab9b612.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/modifikasi-2Bbak-2Btruk-2Bcanter_jpg.rf.dac2d8b81b67dd0388c2a7e2c9bb882f.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/sold-20-09-10-0730193a_jpg.rf.77b4e853d5beace90dcefd4288d1762b.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/truk-isuzu-cdd-elf-nk-mobil-isuzu-21_jpg.rf.3fc13870d2b551b3eada91ce49f1902b.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 4 - 2 axles, 5 or 6 wheels bus or truck/truck 2/used-2013-fuso-box-truck-dutchess-co_jpg.rf.e905d946cee253fe8e3c598519dec94c.jpg",truck 2,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/-_png_jpg.rf.28ade6b6a0f13f61a595afed3cfb06a1.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/-prototype-tri-axle-enviro500-dd34-converted-to-open-top-bus-in-2021-2JKBMD5.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/07ea2d901ee2106d3d1fb4d0565bc24d_medium.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/1-1.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/145_jpg.rf.330009f416a7d23fda302449eba738e6.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/1682252169859_jpg.rf.dffed6a469f45d9954601677137b7e70.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/1682252170381_jpg.rf.a286f51f09b1fdfd410216a70ec913a0.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/1682252170732_jpg.rf.2d7b23ff5d6836423e34da3f8b9a3f3a.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/1682252170748_jpg.rf.fcdd0e5dd0d6b0c270fab5596f231678.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/1993-Leyland-Olympian-triaxle-in-France-United-Kingdom_8252_3659409937254.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/20190318_134316.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/2023-11-2020a20Archway20Volvo20B8L20AC73WAY.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/220px-Weavaway_OU05_AVY_Feb_2007_Nearside.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/23653974518_c83e8dabd1_b.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/25.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/2caa0724f5.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/3150965-scaled.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/432idx.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/49538310943_1a51a789c6_b.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/50593496078_6c2f363e84_b.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/51736303117_26256bc297_b.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/53486308149_f48ee1d8d5_z.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/53_jpg.rf.3a3f3879b9147997d17ea4f4e81e5169.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/6107977b02ff3.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/69568_0.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/8583859782_1acb91fc87_b.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/8_Hong_Kong_tri-axle_28CMB_ML642C_DV_4883292C_Wellington_Arch2C_26_June_2011.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/ADL-Singapore-4-500x333.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/Alexander-Dennis-Enviro500EV-Charge-2-500x334.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/Barnes-Irizar-April-2024-1280x640.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/GBV-3-Axle-SLF-City-Bus.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/GBV-Double-Decker-Bus-1.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/GTe14-twitter-1024x576-1.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/GTe14-with-CMS-1-1.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/H1810bdf1fa9a4b3ea9916460541d7decZ.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/Leyland2.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/Lothian-IMG_0074-RICHARD-WALTER1.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/Mo_9521.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/TA1-LX18DGF.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/Tri-Axle-exterior-1560x900.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/Volvo-B8L-MCV-test-drive-1.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/Yutong-GTe14-details-released.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/_tri-axle_28KMB_3BL642C_DH_5054292C_2012_Slough_26_Windsor_running_day_28129.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/a-national-expess-three-axle-coach-rounds-hyde-park-corner-on-its-C2HRNC.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/banner-cruiser-3-axle-mobile-optimized.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/byd-adl-enviro200ev-xlb-1.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/c6bc0da7c76067956e47d5fb8b65fcbc.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/cj8qp3b8ifb71.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/hq720.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/hq7202.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/hq7203.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image10.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image12.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image14.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image15.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image16.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image21.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image22.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image23.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image25.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image27.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image28.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image29.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image3.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image31.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image33.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image37.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image39.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image4.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image41.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image43.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image44.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image46.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image47.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image49.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image51.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image53.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image55.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image57.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image59.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/image60.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/img_15-2_3.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/img_8-1_29.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/le_bus_of_KVG_Ribnitz2C_Busbahnhof_Zingst._Sept_2010_-_Flickr_-_sludgegulper.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/maxresdefault2.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/modern-three-axle-bus-isolated-on-white-background-H4NJ6P.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/ntnk3ybbcgza1.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/oxf76ir6008_1000x413.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/ri-axle_28Citybus_1342C_ER_6587292C_Ryde_bus_station2C_31_October_2010_28129.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/ri-axle_28Citybus_1342C_ER_6587292C_Ryde_bus_station2C_31_October_2010_28329.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/ri-axle_28Citybus_1622C_ET_1746292C_Ryde_bus_station2C_31_October_2010_28529.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/s674346216273917466_p1268_i1_w2913.jpeg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/saransk-russia-october-19-2019-260nw-1545766028.jpg",bus 3,coach,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/thumb_202008271701078902.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/thumb_202008271711385974.JPG.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/thumb_202008271711451755.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/bus 3/thumb_202008271711458787.jpg",bus 3,bus,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/1345-2_jpg.rf.9963d6e8e51c3a7f77c9be40ce38c9a0.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/156_jpg.rf.4b7a31e8bc72f8e2d08f39e46a5f0d24.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/157_jpg.rf.3fe78584ad212a1140a3053f2bbcdb13.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/162_jpg.rf.4beddfa8fd190749e63be58c9a868e40.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/164_jpg.rf.166bcacef610ba0ad6197f9498a8118c.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/165_jpg.rf.0a6d8c9e33bab77bf8be134e5163fac2.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/168_jpg.rf.b1d0eda068bad3e6bab9666338064e5a.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/180_jpg.rf.1b62f08c4290a3f5c8ede63a5ce27219.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/185_jpg.rf.42016fc67b883cb6c1236c017bb748dd.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/195_jpg.rf.3998da66af556367d5ee9803b7d74085.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/196_jpg.rf.6acc86d0834a348b71f9df2095752cea.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/198_jpg.rf.0f456e2eced121a7ddb389fca671a926.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/1992-Mitsubishi-Great-10-Wheeler-Dum_jpg.rf.a228d3c8089113b0643a65de5b6c0869.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/199_jpg.rf.2213e10046fad149942f51e8d078fd4e.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/2017-Mitsubishi-Super-Great-Cargo-Du_jpg.rf.4228ddecacfe916be0f34e6dea046190.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/203_jpg.rf.2382c84f9404c5be72f71f72b6a0143f.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/206_jpg.rf.06561bb3548eb9d45d515bb6db53d9df.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/207_jpg.rf.01fe2bf3d37adee76e5bb86ede13a64c.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/208_jpg.rf.16f602d0efbff58a18726f125771d300.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/209_jpg.rf.636777092fdc97a5c0209e3280bcc7e8.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/210_jpg.rf.23ad42296911f781609df46004128eb0.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/213_jpg.rf.54e4f6624a8c532474f5de9062e822e7.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/214_jpg.rf.479a9906fb86ac863faa9e8d49287c61.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/216_jpg.rf.270ce1852bbf2c9603d7f8238df6dd94.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/217_jpg.rf.074762f14f9f21f8ba1bb05527e7f87b.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/218_jpg.rf.4fac9ead924795447dedecaf810f39ea.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/219_jpg.rf.428ff2c455bfa2b8a2f09933776deef7.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/220_jpg.rf.e5a3d1fc4e55c6b8bc7797e420c7dfe4.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/221_jpg.rf.76b3ca9141b68fb2736a14c19210f757.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/222_jpg.rf.253eccddabc90ffa2388424ac5f75202.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/223_jpg.rf.1ee4b900556bd31eda0d5cb8d68288aa.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/225_jpg.rf.6e650fcdd743fcfc421504dea8806b26.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/226_jpg.rf.d38591a35565ab6b486f80e9a195af91.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/229_jpg.rf.5253f2ad6aca56111642348c64194508.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/232_jpg.rf.26603f6c6307533a21b6d20a77c972ec.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/235_jpg.rf.3196cd283ca8319c55d4bc711cea6143.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/236_jpg.rf.f8922ad79e8829997f2cd8408b544b21.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/237_jpg.rf.10499ecf50f989c219e16a795e1dbac3.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/239_jpg.rf.31b0281e09eaf55a5675cbce1f10ea3e.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/240_jpg.rf.d62cdf891a648a349fa865abe39ee51e.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/241_jpg.rf.04e09ed6820f416c9b71bfb945c6c442.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/243_jpg.rf.10bb19dc9e264dafa9f77dba36b2fa6a.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/244_jpg.rf.106bc3b9f40e5a2b5a9c9c011adc63fc.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/245_jpg.rf.4bee662b8d04378ffeabbf481dd8332a.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/246_jpg.rf.05e4fe65cabc70facbe2524af346e825.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/248_jpg.rf.5c726d73be168912bbdc5fa4a6e5a17c.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/249_jpg.rf.0b1880be8ba94bd91d8b16a8295be1b2.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/251_jpg.rf.1ec7ebb62acac4cb2e74d07889240b31.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/252_jpg.rf.74310b0f4b3e6b1ba0560be76e68c8a7.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/253_jpg.rf.234450c755a2b7395841a6538f3b86a3.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/254_jpg.rf.54097011bacbb02e88f2a12386e712ae.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/255_jpg.rf.0329bb7d8bd5d463b7916795286f3e81.jpg",truck 3,tow truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/256_jpg.rf.a0da5d42efb9d2a5fe4cfb99690d8fcb.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/258_jpg.rf.5358a4a36619267673b3902cab7a133d.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/260_jpg.rf.1123a6b5c83a0046124597755a54be75.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/261_jpg.rf.0870000dd166de7404e625d198777c0f.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/263_jpg.rf.afab98a1ea95e9153e69feea0d100e8a.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/264_jpg.rf.17492bcd7ea99755ec896f6950b13758.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/265_jpg.rf.90d2dfe4cb4c77ee7842c0fc7afecb69.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/266_jpg.rf.6976f33d079e54bc96ca04320e62fafc.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/267_jpg.rf.4023d37c351e988088fccb0f9c5016f4.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/268_jpg.rf.4e6fde6613dabc242f1324644a93d8b4.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/269_jpg.rf.3722e31e136157fda24122050890a7f5.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/271_jpg.rf.897ca02b7ff6151251d602b7c0b6fc58.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/272_jpg.rf.17a56c18e5095a324bcbf69090667a8a.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/273_jpg.rf.13520d377f0b97478c09d24dafc0ad3f.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/275_jpg.rf.30f3651a30972ec63c12500c58b6cae6.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/276_jpg.rf.1d1cafaabff3e97f16907d297c609242.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/277_jpg.rf.6652bc2b481f5617a82f30333177dc37.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/279_jpg.rf.100cc250e1b0ab1b3a1e043254e630f0.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/280_jpg.rf.2afe7f87b8e2e33cef094b11f723e8e4.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/282_jpg.rf.43550d6fd0abf590e4737b41a148958d.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/284_jpg.rf.0ba4de956a4ed612df41ce11c248cb05.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/285_jpg.rf.1801cdb2c3aa86689c64c75dc1973b66.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/286_jpg.rf.150e3c9c0f6e2b8c6c506f2197b13307.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/287_jpg.rf.34bc066529a8dec14d3fffdc5bc050ab.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/288_jpg.rf.557329f9d99b4ed31b3625cb53c4c37f.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/290_jpg.rf.5b50a0e090740932471b16bc69997fc9.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/291_jpg.rf.69626b3717e83413cc91c6a6d963385e.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/292_jpg.rf.205f9a0ada337aa4f6624cf03c8934eb.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/293_jpg.rf.0cf24ff0d8fd4961f22235f2a5fff9ae.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/294_jpg.rf.4b69b171bb730b50e2fb438db9ac040c.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/295_jpg.rf.43586da49106bf3cb597b5bde551f07c.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/296_jpg.rf.1fb9804f5977cfdbc5d942a3e445061e.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/297_jpg.rf.45552a783199a26a9051859967a43661.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/298_jpg.rf.27ee774bd020d4530e74a3ecdea310cb.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/299_jpg.rf.077039095f36e1ee19edba75c13f32de.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/300_jpg.rf.04ddd7affbd8146b5cc5ecfb713c4d4e.jpg",truck 3,dump truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/40_jpg.rf.0d1ee98981503a766a413276d06817db.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/41_jpg.rf.59d9486bc146b12589c247fc40405f65.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/847666-2012-mitsubishi-fuso-super-gr_jpg.rf.dd051ce8b6f6a953c5f7ad8bf0067b0c.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/Image_013355_jpg.rf.b465d8b2b586861c30d5d60f1a7c386f.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/Image_013389_jpg.rf.dfddd9ac9e83fde4e86a42f7147a8f9b.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/Image_013396_jpg.rf.55875c2bb19127cb5038ef2699f830c0.jpg",truck 3,lorry,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/YT00640_1_jpg.rf.359e9624ad5f3c00dbc0aff602811eb8.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/isuzu-2Bgiga-2BFVM-2B240-2BPs_png.rf.3f98fab0abe016a3d131dc57954af99a.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/mitsubishi-fuso-fn-517-truck-mod-ets-1_jpg.rf.2e83a71aead5adc6d01b96dc6ec96995.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/mitsubishi-fuso-truck-dbcd4d269d_jpg.rf.7c61658df555fb80f53c1d8b7dec6f1d.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/mitsubishi-fuso-trucks-1_jpg.rf.791e66be8c84b9f7fe17862fa46b8c84.jpg",truck 3,truck,,True
+"benchmark_vlm/master/Class 5 - 3 axle truck, bus/truck 3/sold-19-12-12-1120192a_jpg.rf.314a9bead6c98670cc02c1e21e88a090.jpg",truck 3,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/-4-Axle-100-Tons-Semi-Low-Loader-Truck-Trailer--1--111822.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/-4-Axle-100T-Low-Bed-Truck-Trailer.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/-4-Axle-80100-Ton-Heavy-Duty-Lowboy-Equipment-Semi-Trailers-for-Sale-Near-Me--1--181456.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/-4-axle-100-ton-low-bed-trailer--1-.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/-4-axle-low-loader--5--172030.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/-4-axle-lowbed-trailer-truck-38.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/-low-loader-trailer--2-.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/-low-loader-truck-trailer--1--.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/-ps31056187-4-axle-mechanical-suspension-55ton-low-bed-semi-trailer.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/-ps31100372-low-fuel-consumption-cimc-30t-4-axle-drawbar-tipper-trailer.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/0.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/0000738_4-axle-tipper-trailer.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/100_7936-3-600x450.jpg,truck 4,lorry,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/111304079.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/120t-low-loader-pink-crane.d9d9954bc76e01c5d8685b49912da101.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/125695-8707432.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/15_8b4b5732-74ee-45cb-89db-b2e20bf7030e_1024x10242x.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/1674006905_3zsRCXmYjQ.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/1674006979_BS3yi9Z6E3.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/18f25e1718c02bcc2b2c7bc89cfa6338.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/196825-16562959.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/2016-07-07-11.29.11_edited_edited.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/201601301427414115982.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/2696723efee04930b5f70b33aa8d69f2.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/3239961013.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/4-Axle-Fence-Semi-Trailer8.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/4-axle-70T-90T-U-type-dump-trailer-1.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/4-axle-80-tons-fence-warehouse-dropside-semia8d396aa-118d-43d9-818f-d66d210b6f57.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/4-axle-flatbed-trailer1e725ea1-34cc-4ec7-963c-a0e5a07410c1.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/4161e658560f42b5a487969499edf65a.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/4AXLE-EXTENDABLE-ITALY-PORTEGUESE-HEAVY-LOWBEDTRANSPORT.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/4_Axle_Black_Semi_Truck_Cab_1000_0001.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/55-tons-dump-truck04274515979.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/572_0.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/Ashok-Leyland-AVTR-4120-Truck-DLTA-14-wheeler-India-2.jpeg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/Experimental-four-axle-20-ton-truck-with-instrumentation-a-Pitch-plane-model-of-the.png,truck 4,lorry,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/Heavy-Duty-150-Ton-4-Axle-Lowbed-Lowboy-Truck-Semi-Trailer2.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/High-Quality-4axle-lowboy-trailer-truck-Price.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/IMG_1844.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/IMG_6706.jpg,truck 4,lorry,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/Image_013269_jpg.rf.001571d3160f2a71d1147378d3c650a6.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/Isuzu_Giga_Box_Truck_4axle_2017_1000_0001.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/L_KippAuf2S4AGestein_PIC1.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/MAN_SLT_webmICnOegBchbOt.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/MAN_TGS_Baustoffzug_EURO6_web5.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/SINOTRUK-HOWO-420-Dump-Truck-8x4-China_8933_5082187346.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/Volvo_FH_Mk4_Chassis_Truck_4axle_2016_1000_0001.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/Volvo_VNX_300_Tractor_Truck_4axle_2010_1000_0002.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/a86cf0a3bc2386b557efece9e3f1a8de.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/actros-4141-mercedes-4-axle-spielvogel-RBXBGX.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/csm_L_KippAuf2S4AGestein_PIC3_646c22391c.png,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/en_20220113092009_189.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/febd5b7b-b572-4182-8a59-464b033017de-nowater.jpg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image.jpeg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image11.jpeg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image13.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image18.jpeg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image20.jpeg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image22.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image25.jpeg,truck 4,lorry,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image27.jpeg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image29.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image31.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image35.jpeg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image37.jpeg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image38.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image40.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image42.jpeg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image46.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image47.jpeg,truck 4,lorry,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image49.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image50.jpeg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image52.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image53.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image54.jpeg,truck 4,dump truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image7.jpeg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/image9.jpeg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/images.jpg,truck 4,trailer,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/img_1134-1920x1440.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/lef-69-1649-3_orig.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/maxresdefault.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/maxresdefault2.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/maxresdefault3.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/scania-cg-17-4-axle-dump-truck-grey-yellow.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/pl22530647-yellow_color_sinotruk_6x4_jpg.rf.25c0c31fb183939d1b1fa89cb7be1cbf.jpg,truck 4,lorry,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/sddefault.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 6 - 4 axles/truck 4/sddefault2.jpg,truck 4,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/-5-axle-dump-trailer--1-.jpg,truck 5,lorry,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/15854110247_087bbe5dd2_b.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/2560.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/33ff1d46-d9ad-480e-84c6-8d3ebc2b2c06-nowater.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/5-Axle-tank-truck.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/5635e8e00afb5b8aa2026195adb310ce.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/5_axle_lowbed_semi_trailer.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/7-2.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/Gleeson-Quarries-2.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_0392_jpeg.rf.44752d96559659c80035b50805152ea0.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_0405_jpeg.rf.7186d948fe84ae876f72a14e77e2ea5c.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_0412_jpeg.rf.1afb6c0f4a5cc66033d55e589eec318d.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_0416_jpeg.rf.14d8d66b9e00b614506e1879d4f2402e.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_0418_jpeg.rf.6268847c471809f2464c1ec6d4d76935.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_0447_jpeg.rf.864ac8c8e8d2333b0d88f774b37ec55f.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_0463_jpeg.rf.11fe15d85ffde71a577b45c38e8f97af.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_0468_jpeg.rf.b131442336f3ecf43f7fdcfc2f8f4e98.jpg,truck 5,lorry,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_0479_jpeg.rf.2361f325cd688f03b6e6f0b957ffd837.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_0835.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_1030_jpeg.rf.2a87fcca3882fe0a5dbcdb854aff5716.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_1032_jpeg.rf.33d2cab3e321c2e021aa75502c15e665.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_1033_jpeg.rf.22ddc1b4758130ee121a81f908358f6c.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_1035_jpeg.rf.0539dcb402b5d1a9f739aa3e0a383eba.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_1041_jpeg.rf.1cc5f2b2f499cc590be9f3e4e978dd5d.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_1044_jpeg.rf.38b5c2c2d77a03c7db88bf685b65d32e.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_1174_jpeg.rf.238784c69a795ebe09a7ea8520602e31.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/IMG_3642.JPG.jpg,truck 5,lorry,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/cache_943051353.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/cache_944446725.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/d3bace3ef669f82be9cdbe4a114f939f.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/hq720.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image11.jpeg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image12.jpeg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image15.jpeg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image17.jpeg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image19.jpeg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image21.jpeg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image25.jpeg,truck 5,lorry,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image27.jpeg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image29.jpeg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image31.jpeg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image33.jpeg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image36.jpeg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image37.jpeg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image44.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/image9.jpeg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images101.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images102.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images103.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images11.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images110.jpg,truck 5,lorry,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images111.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images118.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images131.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images132.jpg,truck 5,lorry,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images136.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images138.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images140.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images150.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images151.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images205.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images209.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images216.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images221.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images227.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images228.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images23.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images238.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images25.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images250.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images26.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images262.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images263.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images28.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images29.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images36.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images39.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images45.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images46.jpg,truck 5,tow truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images47.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images49.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images5.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images50.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images53.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images63.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images66.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images73.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images78.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images79.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images80.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images81.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images88.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images89.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images9.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images92.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/images93.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/kenworth-5-axle-tractor-t-8806243c6ff.jpg,truck 5,truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/kenworth-t-800-w85301aab.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/s-l1600.jpg,truck 5,dump truck,,True
+benchmark_vlm/master/Class 7 - 5 or more axles/truck 5/s-l400.jpg,truck 5,truck,,True

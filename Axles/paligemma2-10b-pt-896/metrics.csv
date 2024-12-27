@@ -1,0 +1,31 @@
+Model,Metric,Value
+google/paligemma2-10b-pt-896,Total Images,927
+google/paligemma2-10b-pt-896,Correct Predictions,694
+google/paligemma2-10b-pt-896,Wrong Predictions,233
+google/paligemma2-10b-pt-896,Accuracy (%),74.86515641855448
+google/paligemma2-10b-pt-896,Error Rate (%),25.134843581445523
+google/paligemma2-10b-pt-896,Per-Class Accuracy: Class 1 - Motorcycles,95.0
+google/paligemma2-10b-pt-896,Per-Class Error Rate: Class 1 - Motorcycles,5.0
+google/paligemma2-10b-pt-896,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",78.78787878787878
+google/paligemma2-10b-pt-896,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",21.212121212121218
+google/paligemma2-10b-pt-896,Per-Class Accuracy: pickup,100.0
+google/paligemma2-10b-pt-896,Per-Class Error Rate: pickup,0.0
+google/paligemma2-10b-pt-896,Per-Class Accuracy: van,92.0
+google/paligemma2-10b-pt-896,Per-Class Error Rate: van,8.0
+google/paligemma2-10b-pt-896,Per-Class Accuracy: bus 2,97.61904761904762
+google/paligemma2-10b-pt-896,Per-Class Error Rate: bus 2,2.3809523809523796
+google/paligemma2-10b-pt-896,Per-Class Accuracy: truck 2,44.554455445544555
+google/paligemma2-10b-pt-896,Per-Class Error Rate: truck 2,55.445544554455445
+google/paligemma2-10b-pt-896,Per-Class Accuracy: bus 3,94.89795918367348
+google/paligemma2-10b-pt-896,Per-Class Error Rate: bus 3,5.102040816326522
+google/paligemma2-10b-pt-896,Per-Class Accuracy: truck 3,72.0
+google/paligemma2-10b-pt-896,Per-Class Error Rate: truck 3,28.0
+google/paligemma2-10b-pt-896,Per-Class Accuracy: truck 4,26.436781609195403
+google/paligemma2-10b-pt-896,Per-Class Error Rate: truck 4,73.5632183908046
+google/paligemma2-10b-pt-896,Per-Class Accuracy: truck 5,55.00000000000001
+google/paligemma2-10b-pt-896,Per-Class Error Rate: truck 5,44.99999999999999
+google/paligemma2-10b-pt-896,Processor,x86_64
+google/paligemma2-10b-pt-896,CPU Count,128
+google/paligemma2-10b-pt-896,Memory (GB),503.47
+google/paligemma2-10b-pt-896,Elapsed Time (seconds),2123.5359301567078
+google/paligemma2-10b-pt-896,CO2 Emissions (kg),0.164764

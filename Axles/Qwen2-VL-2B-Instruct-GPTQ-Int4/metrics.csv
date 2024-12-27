@@ -1,0 +1,31 @@
+Model,Metric,Value
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Total Images,927
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Correct Predictions,657
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Wrong Predictions,270
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Accuracy (%),70.87378640776699
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Error Rate (%),29.126213592233015
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Accuracy: Class 1 - Motorcycles,100.0
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Error Rate: Class 1 - Motorcycles,0.0
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",98.98989898989899
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",1.0101010101010104
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Accuracy: pickup,100.0
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Error Rate: pickup,0.0
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Accuracy: van,100.0
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Error Rate: van,0.0
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Accuracy: bus 2,76.19047619047619
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Error Rate: bus 2,23.80952380952381
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Accuracy: truck 2,47.524752475247524
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Error Rate: truck 2,52.475247524752476
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Accuracy: bus 3,30.612244897959183
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Error Rate: bus 3,69.38775510204081
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Accuracy: truck 3,23.0
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Error Rate: truck 3,77.0
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Accuracy: truck 4,52.87356321839081
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Error Rate: truck 4,47.12643678160919
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Accuracy: truck 5,80.0
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Per-Class Error Rate: truck 5,20.0
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Processor,x86_64
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,CPU Count,128
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Memory (GB),503.47
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,Elapsed Time (seconds),659.3284475803375
+Qwen/Qwen2-VL-2B-Instruct-GPTQ-Int4,CO2 Emissions (kg),0.044441

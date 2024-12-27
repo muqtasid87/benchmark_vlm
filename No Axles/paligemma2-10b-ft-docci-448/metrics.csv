@@ -1,0 +1,31 @@
+Model,Metric,Value
+google/paligemma2-10b-ft-docci-448,Total Images,927
+google/paligemma2-10b-ft-docci-448,Correct Predictions,912
+google/paligemma2-10b-ft-docci-448,Wrong Predictions,15
+google/paligemma2-10b-ft-docci-448,Accuracy (%),98.38187702265373
+google/paligemma2-10b-ft-docci-448,Error Rate (%),1.6181229773462746
+google/paligemma2-10b-ft-docci-448,Per-Class Accuracy: Class 1 - Motorcycles,96.0
+google/paligemma2-10b-ft-docci-448,Per-Class Error Rate: Class 1 - Motorcycles,4.0
+google/paligemma2-10b-ft-docci-448,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",94.94949494949495
+google/paligemma2-10b-ft-docci-448,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",5.050505050505052
+google/paligemma2-10b-ft-docci-448,Per-Class Accuracy: pickup,98.0
+google/paligemma2-10b-ft-docci-448,Per-Class Error Rate: pickup,2.0
+google/paligemma2-10b-ft-docci-448,Per-Class Accuracy: van,100.0
+google/paligemma2-10b-ft-docci-448,Per-Class Error Rate: van,0.0
+google/paligemma2-10b-ft-docci-448,Per-Class Accuracy: bus 2,100.0
+google/paligemma2-10b-ft-docci-448,Per-Class Error Rate: bus 2,0.0
+google/paligemma2-10b-ft-docci-448,Per-Class Accuracy: truck 2,96.03960396039604
+google/paligemma2-10b-ft-docci-448,Per-Class Error Rate: truck 2,3.960396039603964
+google/paligemma2-10b-ft-docci-448,Per-Class Accuracy: bus 3,100.0
+google/paligemma2-10b-ft-docci-448,Per-Class Error Rate: bus 3,0.0
+google/paligemma2-10b-ft-docci-448,Per-Class Accuracy: truck 3,100.0
+google/paligemma2-10b-ft-docci-448,Per-Class Error Rate: truck 3,0.0
+google/paligemma2-10b-ft-docci-448,Per-Class Accuracy: truck 4,100.0
+google/paligemma2-10b-ft-docci-448,Per-Class Error Rate: truck 4,0.0
+google/paligemma2-10b-ft-docci-448,Per-Class Accuracy: truck 5,100.0
+google/paligemma2-10b-ft-docci-448,Per-Class Error Rate: truck 5,0.0
+google/paligemma2-10b-ft-docci-448,Processor,x86_64
+google/paligemma2-10b-ft-docci-448,CPU Count,128
+google/paligemma2-10b-ft-docci-448,Memory (GB),503.46
+google/paligemma2-10b-ft-docci-448,Elapsed Time (seconds),446.5639898777008
+google/paligemma2-10b-ft-docci-448,CO2 Emissions (kg),0.030367

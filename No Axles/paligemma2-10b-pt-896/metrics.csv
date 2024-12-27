@@ -1,0 +1,31 @@
+Model,Metric,Value
+google/paligemma2-10b-pt-896,Total Images,927
+google/paligemma2-10b-pt-896,Correct Predictions,836
+google/paligemma2-10b-pt-896,Wrong Predictions,91
+google/paligemma2-10b-pt-896,Accuracy (%),90.18338727076592
+google/paligemma2-10b-pt-896,Error Rate (%),9.81661272923408
+google/paligemma2-10b-pt-896,Per-Class Accuracy: Class 1 - Motorcycles,95.0
+google/paligemma2-10b-pt-896,Per-Class Error Rate: Class 1 - Motorcycles,5.0
+google/paligemma2-10b-pt-896,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",78.78787878787878
+google/paligemma2-10b-pt-896,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",21.212121212121218
+google/paligemma2-10b-pt-896,Per-Class Accuracy: pickup,100.0
+google/paligemma2-10b-pt-896,Per-Class Error Rate: pickup,0.0
+google/paligemma2-10b-pt-896,Per-Class Accuracy: van,92.0
+google/paligemma2-10b-pt-896,Per-Class Error Rate: van,8.0
+google/paligemma2-10b-pt-896,Per-Class Accuracy: bus 2,97.61904761904762
+google/paligemma2-10b-pt-896,Per-Class Error Rate: bus 2,2.3809523809523796
+google/paligemma2-10b-pt-896,Per-Class Accuracy: truck 2,59.4059405940594
+google/paligemma2-10b-pt-896,Per-Class Error Rate: truck 2,40.5940594059406
+google/paligemma2-10b-pt-896,Per-Class Accuracy: bus 3,97.95918367346938
+google/paligemma2-10b-pt-896,Per-Class Error Rate: bus 3,2.040816326530617
+google/paligemma2-10b-pt-896,Per-Class Accuracy: truck 3,89.0
+google/paligemma2-10b-pt-896,Per-Class Error Rate: truck 3,11.0
+google/paligemma2-10b-pt-896,Per-Class Accuracy: truck 4,98.85057471264368
+google/paligemma2-10b-pt-896,Per-Class Error Rate: truck 4,1.1494252873563227
+google/paligemma2-10b-pt-896,Per-Class Accuracy: truck 5,99.0
+google/paligemma2-10b-pt-896,Per-Class Error Rate: truck 5,1.0
+google/paligemma2-10b-pt-896,Processor,x86_64
+google/paligemma2-10b-pt-896,CPU Count,128
+google/paligemma2-10b-pt-896,Memory (GB),503.47
+google/paligemma2-10b-pt-896,Elapsed Time (seconds),1851.053882598877
+google/paligemma2-10b-pt-896,CO2 Emissions (kg),0.142688

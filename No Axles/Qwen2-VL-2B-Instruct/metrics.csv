@@ -1,0 +1,18 @@
+Metric,Value
+Total Images,927
+Correct Predictions,920
+Wrong Predictions,7
+Accuracy (%),99.24487594390507
+Error Rate (%),0.7551240560949282
+Per-Class Accuracy: Class 1 - Motorcycles,100.0
+"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",100.0
+Per-Class Accuracy: pickup,100.0
+Per-Class Accuracy: van,99.0
+Per-Class Accuracy: bus 2,100.0
+Per-Class Accuracy: truck 2,94.05940594059405
+Per-Class Accuracy: bus 3,100.0
+Per-Class Accuracy: truck 3,100.0
+Per-Class Accuracy: truck 4,100.0
+Per-Class Accuracy: truck 5,100.0
+Elapsed Time (seconds),471.77334213256836
+CO2 Emissions (kg),0.032016

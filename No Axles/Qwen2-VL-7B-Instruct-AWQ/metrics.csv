@@ -1,0 +1,31 @@
+Model,Metric,Value
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Total Images,927
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Correct Predictions,914
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Wrong Predictions,13
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Accuracy (%),98.59762675296656
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Error Rate (%),1.402373247033438
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: Class 1 - Motorcycles,100.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: Class 1 - Motorcycles,0.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",100.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",0.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: pickup,100.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: pickup,0.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: van,100.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: van,0.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: bus 2,90.47619047619048
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: bus 2,9.523809523809518
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: truck 2,91.0891089108911
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: truck 2,8.910891089108901
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: bus 3,100.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: bus 3,0.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: truck 3,100.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: truck 3,0.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: truck 4,100.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: truck 4,0.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Accuracy: truck 5,100.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Per-Class Error Rate: truck 5,0.0
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Processor,x86_64
+Qwen/Qwen2-VL-7B-Instruct-AWQ,CPU Count,128
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Memory (GB),503.47
+Qwen/Qwen2-VL-7B-Instruct-AWQ,Elapsed Time (seconds),619.1590049266815
+Qwen/Qwen2-VL-7B-Instruct-AWQ,CO2 Emissions (kg),0.04522

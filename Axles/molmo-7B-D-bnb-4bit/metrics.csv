@@ -1,0 +1,31 @@
+Model,Metric,Value
+cyan2k/molmo-7B-D-bnb-4bit,Total Images,927
+cyan2k/molmo-7B-D-bnb-4bit,Correct Predictions,472
+cyan2k/molmo-7B-D-bnb-4bit,Wrong Predictions,455
+cyan2k/molmo-7B-D-bnb-4bit,Accuracy (%),50.916936353829556
+cyan2k/molmo-7B-D-bnb-4bit,Error Rate (%),49.083063646170444
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Accuracy: Class 1 - Motorcycles,99.0
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Error Rate: Class 1 - Motorcycles,1.0
+cyan2k/molmo-7B-D-bnb-4bit,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",96.96969696969697
+cyan2k/molmo-7B-D-bnb-4bit,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",3.030303030303031
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Accuracy: pickup,100.0
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Error Rate: pickup,0.0
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Accuracy: van,73.0
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Error Rate: van,27.0
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Accuracy: bus 2,76.19047619047619
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Error Rate: bus 2,23.80952380952381
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Accuracy: truck 2,3.9603960396039604
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Error Rate: truck 2,96.03960396039604
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Accuracy: bus 3,57.14285714285714
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Error Rate: bus 3,42.85714285714286
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Accuracy: truck 3,0.0
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Error Rate: truck 3,100.0
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Accuracy: truck 4,6.896551724137931
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Error Rate: truck 4,93.10344827586206
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Accuracy: truck 5,6.0
+cyan2k/molmo-7B-D-bnb-4bit,Per-Class Error Rate: truck 5,94.0
+cyan2k/molmo-7B-D-bnb-4bit,Processor,x86_64
+cyan2k/molmo-7B-D-bnb-4bit,CPU Count,128
+cyan2k/molmo-7B-D-bnb-4bit,Memory (GB),503.47
+cyan2k/molmo-7B-D-bnb-4bit,Elapsed Time (seconds),1229.7558851242065
+cyan2k/molmo-7B-D-bnb-4bit,CO2 Emissions (kg),0.094306

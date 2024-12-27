@@ -1,0 +1,31 @@
+Model,Metric,Value
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Total Images,927
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Correct Predictions,873
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Wrong Predictions,54
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Accuracy (%),94.1747572815534
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Error Rate (%),5.825242718446603
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Accuracy: Class 1 - Motorcycles,100.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Error Rate: Class 1 - Motorcycles,0.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",100.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",0.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Accuracy: pickup,51.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Error Rate: pickup,49.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Accuracy: van,100.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Error Rate: van,0.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Accuracy: bus 2,100.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Error Rate: bus 2,0.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Accuracy: truck 2,95.04950495049505
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Error Rate: truck 2,4.950495049504951
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Accuracy: bus 3,100.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Error Rate: bus 3,0.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Accuracy: truck 3,100.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Error Rate: truck 3,0.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Accuracy: truck 4,100.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Error Rate: truck 4,0.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Accuracy: truck 5,100.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Per-Class Error Rate: truck 5,0.0
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Processor,x86_64
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,CPU Count,128
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Memory (GB),503.47
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,Elapsed Time (seconds),574.3868975639343
+unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit,CO2 Emissions (kg),0.039042

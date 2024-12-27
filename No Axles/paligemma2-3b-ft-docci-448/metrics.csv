@@ -1,0 +1,31 @@
+Model,Metric,Value
+google/paligemma2-3b-ft-docci-448,Total Images,927
+google/paligemma2-3b-ft-docci-448,Correct Predictions,909
+google/paligemma2-3b-ft-docci-448,Wrong Predictions,18
+google/paligemma2-3b-ft-docci-448,Accuracy (%),98.05825242718447
+google/paligemma2-3b-ft-docci-448,Error Rate (%),1.9417475728155296
+google/paligemma2-3b-ft-docci-448,Per-Class Accuracy: Class 1 - Motorcycles,99.0
+google/paligemma2-3b-ft-docci-448,Per-Class Error Rate: Class 1 - Motorcycles,1.0
+google/paligemma2-3b-ft-docci-448,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",94.94949494949495
+google/paligemma2-3b-ft-docci-448,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",5.050505050505052
+google/paligemma2-3b-ft-docci-448,Per-Class Accuracy: pickup,99.0
+google/paligemma2-3b-ft-docci-448,Per-Class Error Rate: pickup,1.0
+google/paligemma2-3b-ft-docci-448,Per-Class Accuracy: van,100.0
+google/paligemma2-3b-ft-docci-448,Per-Class Error Rate: van,0.0
+google/paligemma2-3b-ft-docci-448,Per-Class Accuracy: bus 2,95.23809523809523
+google/paligemma2-3b-ft-docci-448,Per-Class Error Rate: bus 2,4.761904761904773
+google/paligemma2-3b-ft-docci-448,Per-Class Accuracy: truck 2,94.05940594059405
+google/paligemma2-3b-ft-docci-448,Per-Class Error Rate: truck 2,5.940594059405953
+google/paligemma2-3b-ft-docci-448,Per-Class Accuracy: bus 3,100.0
+google/paligemma2-3b-ft-docci-448,Per-Class Error Rate: bus 3,0.0
+google/paligemma2-3b-ft-docci-448,Per-Class Accuracy: truck 3,100.0
+google/paligemma2-3b-ft-docci-448,Per-Class Error Rate: truck 3,0.0
+google/paligemma2-3b-ft-docci-448,Per-Class Accuracy: truck 4,96.55172413793103
+google/paligemma2-3b-ft-docci-448,Per-Class Error Rate: truck 4,3.448275862068968
+google/paligemma2-3b-ft-docci-448,Per-Class Accuracy: truck 5,100.0
+google/paligemma2-3b-ft-docci-448,Per-Class Error Rate: truck 5,0.0
+google/paligemma2-3b-ft-docci-448,Processor,x86_64
+google/paligemma2-3b-ft-docci-448,CPU Count,128
+google/paligemma2-3b-ft-docci-448,Memory (GB),503.46
+google/paligemma2-3b-ft-docci-448,Elapsed Time (seconds),214.37395334243774
+google/paligemma2-3b-ft-docci-448,CO2 Emissions (kg),0.012499

@@ -1,0 +1,31 @@
+Model,Metric,Value
+microsoft/Phi-3.5-vision-instruct,Total Images,927
+microsoft/Phi-3.5-vision-instruct,Correct Predictions,901
+microsoft/Phi-3.5-vision-instruct,Wrong Predictions,26
+microsoft/Phi-3.5-vision-instruct,Accuracy (%),97.19525350593312
+microsoft/Phi-3.5-vision-instruct,Error Rate (%),2.804746494066876
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: Class 1 - Motorcycles,100.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: Class 1 - Motorcycles,0.0
+microsoft/Phi-3.5-vision-instruct,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",94.94949494949495
+microsoft/Phi-3.5-vision-instruct,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",5.050505050505052
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: pickup,100.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: pickup,0.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: van,94.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: van,6.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: bus 2,85.71428571428571
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: bus 2,14.285714285714292
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: truck 2,92.07920792079209
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: truck 2,7.920792079207914
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: bus 3,100.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: bus 3,0.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: truck 3,99.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: truck 3,1.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: truck 4,100.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: truck 4,0.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: truck 5,100.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: truck 5,0.0
+microsoft/Phi-3.5-vision-instruct,Processor,x86_64
+microsoft/Phi-3.5-vision-instruct,CPU Count,128
+microsoft/Phi-3.5-vision-instruct,Memory (GB),503.47
+microsoft/Phi-3.5-vision-instruct,Elapsed Time (seconds),865.9766538143158
+microsoft/Phi-3.5-vision-instruct,CO2 Emissions (kg),0.062575

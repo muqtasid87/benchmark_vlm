@@ -1,0 +1,30 @@
+Model,Metric,Value
+microsoft/Phi-3.5-vision-instruct,Total Images,927
+microsoft/Phi-3.5-vision-instruct,Correct Predictions,659
+microsoft/Phi-3.5-vision-instruct,Wrong Predictions,268
+microsoft/Phi-3.5-vision-instruct,Accuracy (%),71.08953613807982
+microsoft/Phi-3.5-vision-instruct,Error Rate (%),28.910463861920178
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: Class 1 - Motorcycles,100.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: Class 1 - Motorcycles,0.0
+microsoft/Phi-3.5-vision-instruct,"Per-Class Accuracy: Class 2 - Car, SUV, Station Wagons",95.95959595959596
+microsoft/Phi-3.5-vision-instruct,"Per-Class Error Rate: Class 2 - Car, SUV, Station Wagons",4.0404040404040416
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: pickup,100.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: pickup,0.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: van,95.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: van,5.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: bus 2,97.61904761904762
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: bus 2,2.3809523809523796
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: truck 2,79.20792079207921
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: truck 2,20.792079207920793
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: bus 3,24.489795918367346
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: bus 3,75.51020408163265
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: truck 3,26.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: truck 3,74.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: truck 4,2.2988505747126435
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: truck 4,97.70114942528735
+microsoft/Phi-3.5-vision-instruct,Per-Class Accuracy: truck 5,96.0
+microsoft/Phi-3.5-vision-instruct,Per-Class Error Rate: truck 5,4.0
+microsoft/Phi-3.5-vision-instruct,Processor,x86_64
+microsoft/Phi-3.5-vision-instruct,CPU Count,128
+microsoft/Phi-3.5-vision-instruct,Memory (GB),503.47
+microsoft/Phi-3.5-vision-instruct,Elapsed Time (seconds),1842.5678844451904
