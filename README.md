@@ -1,0 +1,1 @@
+This repo contains codes and results of benchmark tests carried out on small open source Vision Language Models to test their usefulness for vehicle classification for my undergraduate capstone project.
